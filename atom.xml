@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一股清风</title>
+  
+  <subtitle>cool breezeの博客</subtitle>
+  <link href="https://666q.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://666q.xyz/"/>
+  <updated>2022-08-19T15:17:35.051Z</updated>
+  <id>https://666q.xyz/</id>
+  
+  <author>
+    <name>cool breeze</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://666q.xyz/posts/4a17b156.html"/>
+    <id>https://666q.xyz/posts/4a17b156.html</id>
+    <published>2022-08-19T11:50:10.377Z</published>
+    <updated>2022-08-19T15:17:35.051Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>个人博客搭建</title>
+    <link href="https://666q.xyz/posts/e3e08109.html"/>
+    <id>https://666q.xyz/posts/e3e08109.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:27:46.314Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x001-效果演示&quot;&gt;&lt;a href=&quot;#0x001-效果演示&quot; class=&quot;headerlink&quot; title=&quot;0x001 效果演示&quot;&gt;&lt;/a&gt;0x001 效果演示&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://666q.xyz/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="Hexo" scheme="https://666q.xyz/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://666q.xyz/tags/Github/"/>
+    
+    <category term="博客" scheme="https://666q.xyz/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LuckyBlog开源搭建教程</title>
+    <link href="https://666q.xyz/posts/d74d8b76.html"/>
+    <id>https://666q.xyz/posts/d74d8b76.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:20:25.396Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;之前在&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://666q.xyz/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="hexo-blog-lucky" scheme="https://666q.xyz/tags/hexo-blog-lucky/"/>
+    
+    <category term="博客搭建教程" scheme="https://666q.xyz/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo之渲染绕过</title>
+    <link href="https://666q.xyz/posts/17fd92ae.html"/>
+    <id>https://666q.xyz/posts/17fd92ae.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:20:47.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;0x001-Hexo-渲染&quot;&gt;&lt;a href=&quot;#0x001-Hexo-渲染&quot; class=&quot;headerlink&quot; title=&quot;0x001 Hexo 渲染&quot;&gt;&lt;/a&gt;0x001 Hexo</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://666q.xyz/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="Hexo" scheme="https://666q.xyz/tags/Hexo/"/>
+    
+    <category term="渲染绕过" scheme="https://666q.xyz/tags/%E6%B8%B2%E6%9F%93%E7%BB%95%E8%BF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PicGo+GitHub 图床搭建</title>
+    <link href="https://666q.xyz/posts/7a46f93c.html"/>
+    <id>https://666q.xyz/posts/7a46f93c.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:21:33.947Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;用GitHub搭建图床，在很久之前我就有了解，但由于市面上有挺多免费的图床，比如我之前一直在用的</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://666q.xyz/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="PicGo" scheme="https://666q.xyz/tags/PicGo/"/>
+    
+    <category term="GitHub图床" scheme="https://666q.xyz/tags/GitHub%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云服务器部署Hexo博客</title>
+    <link href="https://666q.xyz/posts/19d2a4e6.html"/>
+    <id>https://666q.xyz/posts/19d2a4e6.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:19:04.747Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://666q.xyz/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="Hexo" scheme="https://666q.xyz/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://666q.xyz/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="阿里云" scheme="https://666q.xyz/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文字背景粒子特效</title>
+    <link href="https://666q.xyz/posts/4b3510a4.html"/>
+    <id>https://666q.xyz/posts/4b3510a4.html</id>
+    <published>2022-08-17T16:00:00.000Z</published>
+    <updated>2022-08-19T09:21:12.625Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;一款jQuery+CSS3的文字背景粒子动画特效，一共6种粒子效果，每种文字背景的粒子效果都不同，有漂浮的有坠落的等等。 &lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="前端篇" scheme="https://666q.xyz/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/"/>
+    
+    
+    <category term="jQuery+CSS3" scheme="https://666q.xyz/tags/jQuery-CSS3/"/>
+    
+    <category term="粒子特效" scheme="https://666q.xyz/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/"/>
+    
+  </entry>
+  
+</feed>
