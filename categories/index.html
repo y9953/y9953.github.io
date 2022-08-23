@@ -554,7 +554,7 @@
                       <div class="moleskine-notebook">
                           <div class="chip notebook-cover center-align waves-effect waves-light
                            chip-default "
-                                  style="background-color: #379A95;">                                               
+                                  style="background-color: #F75240;">                                               
                               <div class="notebook-skin
                                    chip-default "
                                   >博客篇                                  
@@ -571,7 +571,7 @@
                       <div class="moleskine-notebook">
                           <div class="chip notebook-cover center-align waves-effect waves-light
                            chip-default "
-                                  style="background-color: #882B5D;">                                               
+                                  style="background-color: #5D2AD1;">                                               
                               <div class="notebook-skin
                                    chip-default "
                                   >前端篇                                  
@@ -1218,6 +1218,20 @@ $(function () {
     
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
+	
+	
+    <script type="text/javascript">
+    var OriginTitile = document.title,
+        st;
+    document.addEventListener("visibilitychange", function () {
+        document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title =
+            "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () {
+                document.title = OriginTitile
+            }, 3e3))
+    })
+</script>
+
+
 
 </body>
 
