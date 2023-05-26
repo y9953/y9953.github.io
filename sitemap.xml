@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/css/index.css</loc>
+    <loc>http://example.com/css/var.css</loc>
     
     <lastmod>2023-05-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/css/var.css</loc>
+    <loc>http://example.com/css/index.css</loc>
     
     <lastmod>2023-05-08</lastmod>
     
